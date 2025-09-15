@@ -1,5 +1,5 @@
 # GrocerySimulator
 Output of:
-- Zy
+- Zyleika Vashty N. Invento
 - Queenie
 - Shiori
